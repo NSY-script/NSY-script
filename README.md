@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**NSY-script/NSY-script** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Najib Sunusi** — growing into an **SDET** by building real things, breaking them, and fixing the process.
 
-Here are some ideas to get you started:
+I believe SDETs aren’t born — they’re built through practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 How I think as an SDET
+- Code is a product, tests are a product too
+- Readability > cleverness
+- If a test is flaky, the design is wrong
+
+---
+
+### 🔭 Current focus
+- Python-based automation frameworks
+- API testing as first-class testing
+- Clean architecture for test code
+- Learning how tests fit into CI/CD
+
+---
+
+### 🧪 Testing stack
+- UI: Selenium + PyTest
+- API: REST, JSON, Python Requests
+- Design: Page Object Model, reusable flows
+
+---
+
+### 📂 Real project
+🔹 Flow-Driven UI Testing  
+🔗 https://github.com/NSY-script/flow-driven-ui-testing.git
+
+---
+
+### 🎯 Goal
+Become the engineer teams trust to say:  
+> “Yes, this is safe to release.”
