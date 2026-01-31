@@ -1,39 +1,40 @@
+
 ## Hi there 👋
 
-I’m **Najib Sunusi** — growing into an **SDET** by building real things, breaking them, and fixing the process.
+I’m **Najib Sunusi** — a **QA Automation Engineer in the making**, learning by building real test systems, breaking applications, and improving test design.
 
-I believe SDETs aren’t born — they’re built through practice.
+I believe good test engineers are built through practice, not titles.
 
 ---
 
-### 🧠 How I think as an SDET
-- Code is a product, tests are a product too
-- Readability > cleverness
-- If a test is flaky, the design is wrong
+### 🧠 How I think about testing
+- Automation code is production code
+- Clear tests beat clever tests
+- Flaky tests mean poor design, not bad luck
 
 ---
 
 ### 🔭 Current focus
-- Python-based automation frameworks
-- API testing as first-class testing
-- Clean architecture for test code
-- Learning how tests fit into CI/CD
+- Python-based test automation
+- UI and API testing working together
+- Writing maintainable, reusable test code
+- Understanding how automation fits into CI/CD pipelines
 
 ---
 
 ### 🧪 Testing stack
-- UI: Selenium + PyTest
-- API: REST, JSON, Python Requests
-- Design: Page Object Model, reusable flows
+- **UI Automation:** Selenium + PyTest  
+- **API Testing:** REST APIs, JSON, Python Requests  
+- **Test Design:** Page Object Model, reusable test flows
 
 ---
 
-### 📂 Real project
-🔹 Flow-Driven UI Testing  
+### 📂 Featured project
+🔹 **Flow-Driven UI Testing**  
 🔗 https://github.com/NSY-script/flow-driven-ui-testing.git
 
 ---
 
-### 🎯 Goal
-Become the engineer teams trust to say:  
-> “Yes, this is safe to release.”
+### 🎯 Career goal
+To become a QA Automation Engineer teams trust to confidently say:  
+> “This build is ready to ship.”
