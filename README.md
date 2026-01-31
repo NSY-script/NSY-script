@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I’m **Najib Sunusi** — a **QA Automation Engineer in the making**, learning by building real test systems, breaking applications, and improving test design.
+I’m **Najib Sunusi**, a **QA Automation Engineer in the making**, learning by building real test systems, breaking applications, and improving test design.
 
 I believe good test engineers are built through practice, not titles.
 
